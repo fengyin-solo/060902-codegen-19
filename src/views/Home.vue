@@ -71,6 +71,7 @@
         <div class="actions">
           <button class="btn btn-secondary" @click="clearAll">🔄 重新上传</button>
           <router-link to="/wall" class="btn btn-primary">🎨 查看情书墙</router-link>
+          <router-link to="/script" class="btn btn-primary">🎬 关系剧本</router-link>
         </div>
       </div>
 
